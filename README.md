@@ -13,6 +13,7 @@
 ### Project Overview
 In today’s competitive business environment, optimizing employee management processes is crucial for enhancing overall productivity. This project aims to analyze key employee-related data to identify trends and develop strategies that can improve organizational outcomes. By examining hiring trends, training effectiveness, turnover rates, and employee engagement, this project will provide actionable insights to inform data-driven decisions that bolster the company’s productivity and employee satisfaction.
 
+![image](https://github.com/user-attachments/assets/78325765-1607-4abe-81bc-3509074cff2a)
 
 ### Data Source
 The data used in this project was sourced from Kaggle [Download here](https://www.kaggle.com/datasets/ravindrasinghrana/employeedataset). The dataset consists of the following four distinct CSV files:
