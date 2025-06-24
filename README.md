@@ -1,4 +1,4 @@
-# Leveraging-Employee-Data-to-Enhance-Organizational-Productivity
+# Leveraging Employee Data to Enhance Organizational Productivity
 
 ## Table of Contents
 - [Project Overview](#project-overview)
